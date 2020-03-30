@@ -1,5 +1,5 @@
 To start with, just run following command
-node secretMessage.js
+> node secretMessage.js
 
 Enter some text:
 e.g. "Shhh! Secret message for someone!"
